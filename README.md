@@ -200,4 +200,6 @@ Would you like to start again? press s for start or q for quit
 
 ## Project ShowCasing
 I've attached a recorded video of the full execution of the project. 
-https://github.com/user-attachments/assets/156145bc-8a5f-45b8-8b66-353435163241
+
+
+https://github.com/user-attachments/assets/a778ff2c-b967-4569-8b39-d9d040c6d1d7
